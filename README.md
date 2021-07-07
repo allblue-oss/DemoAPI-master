@@ -33,3 +33,7 @@
 ![Image](https://github.com/yingoja/DemoAPI/blob/master/share/screeshots/excel.JPG)
 * 邮件收到的测试报告
 ![Image](https://github.com/yingoja/DemoAPI/blob/master/share/screeshots/mail.JPG)
+
+作者：Jason
+出处：http://www.cnblogs.com/yinjia/
+本文版权归作者和博客园共有，欢迎转载，但未经作者同意必须保留此段声明，且在文章页面明显位置给出原文连接，否则保留追究法律责任的权利。
